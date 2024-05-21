@@ -28,7 +28,7 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin: 0 10px;
+    margin: 0 10px; /* Adjust this value to increase or decrease spacing */
 }
 
 nav ul li a {
